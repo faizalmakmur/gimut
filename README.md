@@ -28,9 +28,9 @@ Website ini bertujuan sebagai media edukasi digital agar anak-anak dapat:
 ## 🌐 Demo Langsung
 
 Klik link di bawah ini untuk melihat versi online dari website:  
-🔗 https://faizalmakmur.github.io/websiteujicoba/
+🔗 https://faizalmakmur.github.io/gimut/
 
-> Ganti `username` di atas dengan username GitHub kamu.
+
 
 ## 📷 Preview
 
